@@ -148,5 +148,5 @@ cd $OUT
 
 There you'll find all the files that were created. 
 
-`crDroidAndroid-13.0-20230608-lancelot-v9.5.zip` or `crDroidAndroid-13.0-20230608-merlinx-v9.5.zip`, which is the CherishOS
+`Cherish-OS-v4.8-20230610-0007-lancelot-UNOFFICIAL-Vanilla.zip` or `Cherish-OS-v4.8-20230610-0007-merlinx-UNOFFICIAL-Vanilla.zip`, which is the CherishOS
 installer package.
