@@ -108,7 +108,7 @@ repo init -u https://github.com/CherishOS/android_manifest.git -b tiramisu --git
 Enter the following to import device specific source manifest:
 
 ```
-git clone https://github.com/MT6768-Lab/local_manifest --depth 1 -b crdroid-13.0 .repo/local_manifests
+git clone https://github.com/MT6768-Lab/local_manifest --depth 1 -b cherish-13.0 .repo/local_manifests
 ```
 
 ### Download the source code
